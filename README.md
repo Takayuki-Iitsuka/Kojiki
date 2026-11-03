@@ -5,3 +5,6 @@
 - 目次: [docs/index.md](docs/index.md)
 - 執筆規約: [CLAUDE.md](CLAUDE.md)
 - 未解決事項・作業予定: [docs/TODO.md](docs/TODO.md)
+
+## 文書
+- [日本書紀](docs/nihon-shoki.md)(成立・構成・文体・古事記との比較・受容史)
